@@ -16,7 +16,7 @@ imdadsworld
  
  ### Screenshots
  
- ![alt text](https://raw.githubusercontent.com/imdadareeph/imdadsworld/master/src/main/resources/static/screenshots/w1.png "preview1")
- ![alt text](https://raw.githubusercontent.com/imdadareeph/imdadsworld/master/src/main/resources/static/screenshots/w2.png "preview2")
- ![alt text](https://raw.githubusercontent.com/imdadareeph/imdadsworld/master/src/main/resources/static/screenshots/m1.png "preview3")
- ![alt text](https://raw.githubusercontent.com/imdadareeph/imdadsworld/master/src/main/resources/static/screenshots/m2.png "preview4")
+ ![alt text](https://raw.githubusercontent.com/imdadareeph/imdadsworld/master/src/main/resources/screenshots/w1.png "preview1")
+ ![alt text](https://raw.githubusercontent.com/imdadareeph/imdadsworld/master/src/main/resources/screenshots/w2.png "preview2")
+ ![alt text](https://raw.githubusercontent.com/imdadareeph/imdadsworld/master/src/main/resources/screenshots/m1.png "preview3")
+ ![alt text](https://raw.githubusercontent.com/imdadareeph/imdadsworld/master/src/main/resources/screenshots/m2.png "preview4")
